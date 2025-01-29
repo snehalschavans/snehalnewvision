@@ -38,7 +38,7 @@ import snehalacademy.pageobjects.ConfirmationPage;
 import snehalacademy.pageobjects.Landingpage;
 import snehalacademy.pageobjects.MyCart;
 import snehalacademy.pageobjects.ProductCatlog;
-
+//Runung successfully.
 public class SubmitOrderTest extends BaseTest {
 	String productName = "IPHONE 13 PRO";
 	@Test(dataProvider="getData",groups={"Purchase"})
